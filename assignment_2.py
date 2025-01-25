@@ -79,10 +79,10 @@ ASSIGNMENT GOAL:
 
 '''
 
-name = input('Please enter a name: ')
-age = input('Please enter an age: ')
-height = input('Please enter a height: ')
-is_student = input('Please enter whether or not you are a student: ')
+name = input('Alice')
+age = input('25')
+height = input('5.5')
+is_student = input('False')
 
 
 
